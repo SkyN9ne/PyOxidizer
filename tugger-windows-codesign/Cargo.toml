@@ -16,7 +16,7 @@ duct = "0.13.6"
 log = "0.4.17"
 p12 = "0.6.3"
 rcgen = "0.10.0"
-time = "0.3.17"
+time = "0.3.26"
 yasna = "0.5.1"
 
 [dependencies.tugger-common]

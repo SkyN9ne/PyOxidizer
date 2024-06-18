@@ -23,7 +23,7 @@ serde = { version = "1.0.152", features = ["derive"], optional = true }
 sha2 = { version = "0.10.6", optional = true }
 simple-file-manifest = "0.11.0"
 spdx = "0.10.0"
-time = { version = "0.3.17", optional = true }
+time = { version = "0.3.26", optional = true }
 walkdir = "2.3.2"
 
 [dependencies.python-packed-resources]
